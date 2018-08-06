@@ -1,0 +1,28 @@
+{
+  "persons":{
+    "cars":{
+      "Audi":"A8",
+      "BMW":"M700",
+      "Ferrari":"Diablo",
+      "Seat":"Seen",
+      "Mercedes":"store",
+      "Toyota":"Camru",
+      "Peugeot":"407"
+    }
+  },
+  "languages":[
+    "C#",
+    "Java",
+    "Python",
+    "JavaScript",
+    "PHP",
+    "Ruby"
+  ],
+  "brands":[
+    "Apple",
+    "Samsung",
+    "Lenovo",
+    "Xiaomi",
+    "Nokia"
+  ]
+}
